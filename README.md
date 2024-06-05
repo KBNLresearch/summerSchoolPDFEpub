@@ -24,7 +24,7 @@ Achtergrondinformatie en verdiepende materialen bij het KB Summerschool onderdee
 
 ####  Opbouw en structuur
 
-Nader in te vullen.
+[A look inside an EPUB file](https://opensource.com/article/22/8/epub-file) - een EPUB bestand is eigenlijk gewoon een ZIP container, met daarin XML metadata en XHTML content.
 
 #### Problemen EPUB tekstextractie
 
