@@ -73,7 +73,7 @@ with open(fileOut, 'w', encoding='utf-8') as fout:
 
 - [Github repository met Python demoscripts uit blogpost](https://github.com/KBNLresearch/textExtractDemo)
 
-### Overig
+### Meer PDF tools
 
 - [Working with batches of PDF files](http://programminghistorian.org/en/lessons/working-with-batches-of-pdf-files) - o.a. extractie van tekst, afbeeldingen, en optische tekenherkenning met open-source command-line tools.
 - [PDF processing and analysis with open-source tools](https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools) - nog meer PDF manipulatie met open-source command-line tools.
