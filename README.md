@@ -36,9 +36,15 @@ Nader in te vullen.
 
 [Tika-python](https://github.com/chrismattmann/tika-python) is een Python wrapper waarmee je Apache Tika binnen Pythonprojecten kunt gebruiken.
 
+#### Tika-python instalatie
+
+```
+pip install tika
+```
+
 #### Tika-python voorbeeld
 
-Onderstaande code leest een input PDF bestand uit, extraheert de tekst met Tika-python, en schrijft de geéxtraheerde tekst weg naar een output tekstbestand:  
+Onderstaande code leest een input PDF bestand uit, extraheert de tekst met Tika-python, en schrijft de geëxtraheerde tekst weg naar een output tekstbestand:  
 
 ```python
 #! /usr/bin/env python3
