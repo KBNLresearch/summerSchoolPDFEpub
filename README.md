@@ -28,7 +28,7 @@ Achtergrondinformatie en verdiepende materialen bij het KB Summerschool onderdee
 
 #### Problemen EPUB tekstextractie
 
-[Valid, but not accessible: crazy fixed EPUB layouts](https://www.bitsgalore.org/2016/04/04/valid-but-not-accessible-epub-crazy-fixed-layouts) gaat in op problemen die kunnen optreden met "fixed layout" EPUB bestanden. Tekstextractie op dergelijke bestanden kan ook onverwachte resultaten opleveren.
+[Valid, but not accessible: crazy fixed EPUB layouts](https://www.bitsgalore.org/2016/04/04/valid-but-not-accessible-epub-crazy-fixed-layouts) gaat in op problemen die kunnen optreden met "fixed layout" EPUB bestanden. Tekstextractie op dergelijke bestanden kan ook onverwachte resultaten opleveren. Niet genoemd hier: EPUBs die uit alleen maar afbeeldingen bestaan (dit zie je vaak bij geïllustreerde kinderboeken).
 
 ### Tekstextractie met Apache Tika
 
