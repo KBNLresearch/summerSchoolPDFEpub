@@ -32,7 +32,7 @@ Achtergrondinformatie en verdiepende materialen bij het KB Summerschool onderdee
 
 ### Tekstextractie met Apache Tika
 
-[Apache Tika](https://tika.apache.org/) is open-source software voor het herkennen en extraheren van metadata en tekst. Ondersteunt een groot aantal bestandsformaten, waaronder PDF en EPUB.
+[Apache Tika](https://tika.apache.org/) is open-source software voor het herkennen en extraheren van metadata en tekst. Tika ondersteunt een groot aantal bestandsformaten, waaronder PDF en EPUB.
 
 [Tika-python](https://github.com/chrismattmann/tika-python) is een Python wrapper waarmee je Apache Tika binnen Pythonprojecten kunt gebruiken.
 
