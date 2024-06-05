@@ -2,7 +2,7 @@
 
 Achtergrondinformatie en verdiepende materialen bij het KB Summerschool onderdeel "PDF en EPUB ontrafeld".
 
-### PDF
+### [PDF](https://en.wikipedia.org/wiki/PDF)
 
 #### Geschiedenis
 
@@ -16,7 +16,7 @@ Achtergrondinformatie en verdiepende materialen bij het KB Summerschool onderdee
 
 [What's so hard about PDF text extraction?](http://archive.today/2020.09.14-092557/https://filingdb.com/b/pdf-text-extraction). Dit artikel geeft een goed overzicht van de vele problemen die kunnen optreden bij de extractie van tekst uit PDF bestanden.
 
-### EPUB
+### [EPUB](https://en.wikipedia.org/wiki/EPUB)
 
 #### Geschiedenis
 
@@ -24,7 +24,7 @@ Achtergrondinformatie en verdiepende materialen bij het KB Summerschool onderdee
 
 ####  Opbouw en structuur
 
-[A look inside an EPUB file](https://opensource.com/article/22/8/epub-file) - een EPUB bestand is eigenlijk gewoon een ZIP container, met daarin XML metadata en XHTML content.
+[A look inside an EPUB file](https://opensource.com/article/22/8/epub-file) - een EPUB bestand is eigenlijk gewoon een [ZIP](https://en.wikipedia.org/wiki/ZIP_(file_format)) container, met daarin [XML](https://en.wikipedia.org/wiki/XML) metadata en [XHTML](https://en.wikipedia.org/wiki/XHTML) content.
 
 #### Problemen EPUB tekstextractie
 
