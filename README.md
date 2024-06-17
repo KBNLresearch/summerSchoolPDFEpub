@@ -14,7 +14,9 @@ Achtergrondinformatie en verdiepende materialen bij het KB Summerschool onderdee
 
 #### Problemen PDF tekstextractie
 
-[What's so hard about PDF text extraction?](http://archive.today/2020.09.14-092557/https://filingdb.com/b/pdf-text-extraction). Dit artikel geeft een goed overzicht van de vele problemen die kunnen optreden bij de extractie van tekst uit PDF bestanden.
+- [What's so hard about PDF text extraction?](http://archive.today/2020.09.14-092557/https://filingdb.com/b/pdf-text-extraction). Dit artikel geeft een goed overzicht van de vele problemen die kunnen optreden bij de extractie van tekst uit PDF bestanden.
+
+- [Brief Overview of the Portable Document Format and Some Challenges for Text Extraction](https://irsg.bcs.org/informer/wp-content/uploads/OverviewOfTextExtractionFromPDFs.pdf)
 
 ### [EPUB](https://en.wikipedia.org/wiki/EPUB)
 
