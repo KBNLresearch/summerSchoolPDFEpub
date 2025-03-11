@@ -18,6 +18,8 @@ Achtergrondinformatie en verdiepende materialen bij het KB Summerschool onderdee
 
 - [Brief Overview of the Portable Document Format and Some Challenges for Text Extraction](https://irsg.bcs.org/informer/wp-content/uploads/OverviewOfTextExtractionFromPDFs.pdf)
 
+- [Why extracting data from PDFs is still a nightmare for data experts](https://arstechnica.com/ai/2025/03/why-extracting-data-from-pdfs-is-still-a-nightmare-for-data-experts/). Dit artikel gaat in op machine learning technieken, en waarom ook die niet perfect zijn.
+
 ### [EPUB](https://en.wikipedia.org/wiki/EPUB)
 
 #### Geschiedenis
